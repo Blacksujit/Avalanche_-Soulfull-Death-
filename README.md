@@ -14,8 +14,8 @@ Himalayan expeditions are challenging and adventurous undertakings that attract 
 ## Avalanches: An Overview
 An avalanche is a rapid flow of snow down a slope, which can be triggered by various factors such as heavy snowfall, wind, temperature changes, and human activity. Avalanches can cause significant loss of life and property, making it crucial to predict and prepare for these events.
 
-![Avalanche](![alt text](image-1.png))
-![Avalanche](![alt text](image-2.png))
+ ![alt text](image-1.png)
+ ![alt text](image-2.png)
 
 ## The Role of Machine Learning in Predicting Avalanches:
 
@@ -35,13 +35,13 @@ The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/raskoshik/
 
 ## Plot Analysis Results:
 
-1.) ![alt text](image.png)
+ ![alt text](image.png)
 
-2.) ![alt text](output2.png)
+ ![alt text](output2.png)
 
-3.) ![alt text](pairplot.png)
+ ![alt text](pairplot.png)
 
-4.) ![alt text](output.png)
+ ![alt text](output.png)
 
 ##  License:
 
