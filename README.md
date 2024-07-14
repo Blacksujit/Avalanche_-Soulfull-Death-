@@ -1,7 +1,7 @@
 # Avalanche ("Deadly Collapse: A Soulful Death")
 
 
-## Introduction :
+## Description :
 
 This project aims to predict the occurrence of avalanches during Himalayan expeditions using machine learning techniques. Avalanches pose significant risks to mountaineers and understanding the factors contributing to such events can help in mitigating these risks.
 
